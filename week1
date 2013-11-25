@@ -1,0 +1,19 @@
+"""
+Problem: python programming week 1 assignment
+Target Users: marcus
+Target System: windows 7/ios
+Interface: CLI, python 3.2
+Functional Requirements: print a message
+                                                                                          user has to be able to input text which then prints
+Testing: run test - expect message to appear and user to be prompted to input text
+Maintainer: luke
+"""
+ 
+#1. Print output
+print("hello world!")
+ 
+#2. input some text
+some_text = input('type in some words: ')
+ 
+#3. Print out text just entered
+print(some_text)
